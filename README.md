@@ -1,7 +1,7 @@
 # Mayo-Lane-Farm
-## This farm is located in oldham county ky and is owned by Joyce McKinney.
+## This farm is located in Oldham County Ky and is owned by Joyce McKinney and runs in the McKinney family.
 
-A short paragraph describing your area.
+This farm has been in my family for generations and was here before all of the neighborhoods were built. There are many creeks that flow throughout our property and even a waterfall in the summer. There are many vegetables than are grown on this farm and cows are raised as well.
 
 ![McKinney Farm on Mayo Lane](mayo_lane1.jpg)     
 *McKinney Farm on Mayo Lane*
